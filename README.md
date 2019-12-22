@@ -1,6 +1,19 @@
 # Project week 6 @ Technigo Bootcamp 
 
-A simple weather web app that shows a 5 day forecast for Stockholm using [Open Weather API](https://home.openweathermap.org).
+This week's project is to build a simple weather web app that shows today's weather and temperature, and a 5-day forecast using a weather API. 
 
+## To learn this week 🧠
 
-View live: [https://weather-by-nasim.netlify.com/](https://weather-by-nasim.netlify.com/).
+- What an API is and how to use it
+- Basic JSON
+- How to use  <code> fetch() </code> in JavaScript useEffect 
+-How to use promises in JavaScript
+- How to work with the <code> Date() </code> object in JavaScript
+
+### Tech  💻
+
+- HTML5
+- CSS3
+- JavaScript 
+
+My live project [Here](https://weather-by-nasim.netlify.com/)
