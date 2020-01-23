@@ -1,6 +1,6 @@
 ## A Weather Web App 🌤
 
-A simple weather web app that shows Stockholm's current weather and temperature, and a 5-day forecast using a weather API[https://openweathermap.org/]
+A simple weather web app that shows Stockholm's current weather and temperature, and a 5-day forecast using a weather API https://openweathermap.org/
 
 ## Learning objectives 🧠
 
